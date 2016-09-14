@@ -1,0 +1,31 @@
+*************************
+ TEST LIBRAIRIE LIBUSB:
+*************************
+
+[1]
+   iManufacturer = 1
+   string = asus
+   iProduct = 2
+   string = Nexus 7
+   iSerialNumber = 3
+   string = 09e5da8d
+   bDescriptorType = 1
+   string = asus
+   bDeviceClass = 0
+   bDeviceProtocol = 0
+   bDeviceSubClass = 0
+   idProduct = 20193
+   string = asus
+   idVendor = 6353
+   string = asus
+   bcdDevice = 552
+   string = asus
+   bcdUSB = 512
+   string = asus
+   bNumConfigurations = 1
+   string = asus
+   bLength = 18
+
+*************************
+        Done
+*************************
